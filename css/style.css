@@ -1,0 +1,77 @@
+body {
+    
+    font-family: fantasy;
+    
+}
+
+
+
+.wrapper img {
+    opacity: 0.5;
+}
+
+.wrapper:hover img {
+    opacity: 1;
+}
+
+.wrapper h1 {
+    background-color:#f0eded8a;
+    text-align: center;
+    color: #000000;
+    position: absolute;
+    top: -2px;
+    left: 67px;
+    width: 256px;
+    height: 98px;
+    border: 0 solid;
+    border-radius: 25px;
+    z-index: 2;
+}
+
+
+
+h1 {
+    padding: 5px;
+}
+
+.orange {
+    color: #ff7800;
+}
+
+
+.wrapper:hover h1 {
+    opacity: 0;
+}
+
+.wrapper p {
+
+    color: white;
+     position: absolute;
+    font-size: 53px;
+    height: 0px;
+    top: 203px;
+    left: 100px;
+    z-index: 2;
+}
+   
+
+.wrapper:hover p {
+
+    color:#faf8f8;
+    position: absolute;
+    height: 0px;
+    font-size: 40px;
+    top: 309px;
+    left: 129px;
+    z-index: 2;
+    
+
+}
+
+
+
+
+
+
+   
+
